@@ -69,7 +69,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 32px;
+    gap: 28px;
     text-align: center;
     font-size: large;
     min-width: 25%;
@@ -104,7 +104,8 @@ body {
 
 .content_links_ghub:hover, .content_links_lin:hover {
     transform: scale(1.01);
-    box-shadow: .6px .6px 4px black;
+    box-shadow: 1px 1px 6px black;
+    background-color: aliceblue;
 }
 
 .content_links img {
